@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+*.local
+
+# Personal document, not part of the website
+MediCard Full HMO Standard Plan with Limits - Healthcare Program Agreement.pdf
